@@ -1,5 +1,6 @@
 # Image-Classification-STL10
 In this project, image classification of the test dataset of STL-10 has been done with 2 techniques
+
        1) Training the CNN model from scratch. Following steps were followed:
                 * Prepare the training and testing data.
                 * Build the CNN model Architecture
